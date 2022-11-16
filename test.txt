@@ -1,1 +1,2 @@
 Line1 from test-2 branch
+Line2 from test branch
